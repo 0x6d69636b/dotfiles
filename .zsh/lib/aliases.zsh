@@ -1,0 +1,6 @@
+alias ll='ls -la'
+alias lh='ls -lah'
+alias ...='cd ../..'
+alias fuck='echo "Sorry, I can not do that Valérie"'
+alias why='echo "What is the magic word?"'
+alias please='sudo $(fc -ln -1)'
