@@ -1,4 +1,4 @@
-# dot_files
+# dotfiles
 
 Collection of some configuration files
 
