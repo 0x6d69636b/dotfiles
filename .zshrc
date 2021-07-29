@@ -25,7 +25,7 @@ source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Support for powerline
 . /usr/share/powerline/zsh/powerline.zsh
-source  ~/.powerlevel9k/powerlevel9k.zsh-theme
+source  ~/.powerlevel10k/powerlevel10k.zsh-theme
 
 POWERLEVEL9K_HOME_ICON=''
 POWERLEVEL9K_HOME_SUB_ICON=''
@@ -33,4 +33,4 @@ POWERLEVEL9K_FOLDER_ICON=''
 POWERLEVEL9K_ETC_ICON=''
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs root_indicator background_jobs history time)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status vcs virtualenv root_indicator background_jobs history time)
